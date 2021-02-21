@@ -1,1 +1,1 @@
-%homepath%\ChangeScreenResolution.exe /w=1920 /h=1080 /d=0,1
+%homepath%\ChangeScreenResolution.exe /w=1920 /h=1080 /d=0,1 /f=60

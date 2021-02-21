@@ -1,0 +1,1 @@
+https://www.reddit.com/r/HPReverb/comments/lohzj3/script_to_change_your_monitors_to_1080p_60hz_when/
